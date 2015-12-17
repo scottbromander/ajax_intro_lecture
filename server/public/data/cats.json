@@ -1,0 +1,14 @@
+{
+  "tabby" : {
+    "name" : "smith",
+    "nickname" : "mr.cuddles"
+  },
+  "bengal" : {
+    "name" : "empress",
+    "nickname" : "schmoozy poo"
+  },
+  "british shorthair" : {
+    "name" : "earl",
+    "nickname" : "earl"
+  }
+}
